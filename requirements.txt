@@ -13,10 +13,5 @@ opencv-python==4.5.1.48
 Pillow==5.3.0
 pipenv==2020.6.2
 sklearn==0.0
-tensorboard==2.5.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0
-tensorflow-estimator==2.5.0
-tensorflow-hub==0.8.0
 zipp==3.1.0
