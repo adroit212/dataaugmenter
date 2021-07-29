@@ -1,1 +1,2 @@
-web: gunicorn DataAugmenter.wsgi
+
+web: gunicorn dataaugmenter.wsgi
