@@ -14,7 +14,6 @@ backcall==0.1.0
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.6.3
-bitarray @ file:///C:/ci/bitarray_1598885049384/work
 bkcharts==0.2
 blaze==0.11.3
 bleach==3.0.2
