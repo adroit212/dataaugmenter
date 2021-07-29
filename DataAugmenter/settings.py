@@ -68,8 +68,7 @@ TEMPLATES = [
     },
 ]
 
-#WSGI_APPLICATION = 'DataAugmenter.wsgi.application'
-WSGI_APPLICATION = 'DataAugmenter.wsgi'
+WSGI_APPLICATION = 'DataAugmenter.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
