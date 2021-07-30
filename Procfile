@@ -1,1 +1,1 @@
-web: gunicorn dataaugmenter.wsgi
+web: gunicorn DataAugmenter.wsgi --log-file -
